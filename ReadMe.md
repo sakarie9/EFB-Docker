@@ -7,6 +7,8 @@
 - [QQ Slave](https://github.com/milkice233/efb-qq-slave)
 - [QQ Plugin Mirai](https://github.com/milkice233/efb-qq-plugin-mirai)
 
+**此镜像不含Mirai，请使用 [Mirai-Docker](https://github.com/xzsk2/Mirai-Docker) 或自行搭建**
+
 ## 使用
 
 1. 使用`efb-wizard`初始化配置文件
