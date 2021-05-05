@@ -1,4 +1,4 @@
-# EFB-QQ-Mirai-Docker
+# EFB-Docker
 
 镜像包含模块
 
@@ -14,7 +14,7 @@
 1. 使用`efb-wizard`初始化配置文件
 
     ```bash
-    docker run --rm -it --name="efb" -v $PWD/efb/config:/app/config xzsk2/efb-qq-mirai-docker:latest efb-wizard
+    docker run --rm -it --name="efb" -v $PWD/efb/config:/app/config xzsk2/efb-docker:latest efb-wizard
     ```
 
 2. 新建`./efb/config/profiles/default/milkice.qq/config.yaml`，根据样例修改
@@ -31,7 +31,7 @@
 3. 启动
 
     ```bash
-    docker run -d --name="efb" -v $PWD/efb/config:/app/config xzsk2/efb-qq-mirai-docker:latest
+    docker run -d --name="efb" -v $PWD/efb/config:/app/config xzsk2/efb-docker:latest
     ```
 
 4. 更新，使用 [Watchtower](https://github.com/containrrr/watchtower)
