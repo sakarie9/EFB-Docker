@@ -6,6 +6,7 @@
 - [Telegram Master](https://github.com/ehForwarderBot/efb-telegram-master) : 2.2.4
 - [QQ Slave](https://github.com/milkice233/efb-qq-slave) : 2.0.1
 - [QQ Plugin Mirai](https://github.com/milkice233/efb-qq-plugin-mirai) : 2.0.4
+- [QQ Plugin go-cqhttp](https://github.com/XYenon/efb-qq-plugin-go-cqhttp)
 - [efb-filter-middleware](https://github.com/xzsk2/efb-filter-middleware)
 
 **此镜像不含Mirai，请使用 [Mirai-Docker](https://github.com/xzsk2/Mirai-Docker) 或自行搭建**
