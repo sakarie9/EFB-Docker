@@ -1,6 +1,8 @@
 # EFB-Docker
 
-镜像包含模块
+**[TG-EFB-QQ-Docker](https://github.com/xzsk2/TG-EFB-QQ-Docker) 的 Telegram 端仓库**
+
+包含模块
 
 - [EH Forwarder Bot](https://github.com/ehForwarderBot/ehForwarderBot)
 - [Telegram Master](https://github.com/ehForwarderBot/efb-telegram-master)
@@ -8,8 +10,6 @@
 - [QQ Plugin Mirai](https://github.com/milkice233/efb-qq-plugin-mirai)
 - [QQ Plugin go-cqhttp](https://github.com/XYenon/efb-qq-plugin-go-cqhttp)
 - [efb-filter-middleware](https://github.com/xzsk2/efb-filter-middleware)
-
-**此镜像不含Mirai，请使用 [Mirai-Docker](https://github.com/xzsk2/Mirai-Docker) 或自行搭建**
 
 ## 使用
 
