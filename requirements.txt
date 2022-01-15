@@ -1,5 +1,6 @@
 ehforwarderbot
 efb-telegram-master
+efb-telegram-master[tgs]
 efb-qq-slave
 git+https://github.com/milkice233/efb-qq-plugin-mirai#egg=efb-qq-plugin-mirai
 git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
