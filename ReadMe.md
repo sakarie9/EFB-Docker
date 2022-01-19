@@ -1,5 +1,7 @@
 # EFB-Docker
 
+[![Docker](https://img.shields.io/docker/cloud/automated/xzsk2/gocqhttp-docker)](https://hub.docker.com/repository/docker/xzsk2/efb-docker)
+
 **[TG-EFB-QQ-Docker](https://github.com/xzsk2/TG-EFB-QQ-Docker) 的 Telegram 端仓库**
 
 包含模块
