@@ -1,7 +1,6 @@
 git+https://github.com/ehForwarderBot/ehForwarderBot#egg=ehforwarderbot
 git+https://github.com/ehForwarderBot/efb-telegram-master#egg=efb-telegram-master
 efb-telegram-master[tgs]
-git+https://github.com/milkice233/efb-qq-slave#egg=efb-qq-slave
 git+https://github.com/milkice233/efb-qq-plugin-mirai#egg=efb-qq-plugin-mirai
 git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
 git+https://github.com/xzsk2/efb-filter-middleware#egg=efb-filter-middleware
